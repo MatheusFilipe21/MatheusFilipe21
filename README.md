@@ -19,9 +19,9 @@
 
 ## Estatísticas do GitHub
 <div style="display: flex;">
-  <img style="margin-right: 2rem;" height="200em"src="https://github-readme-stats.vercel.app/api?username=matheusfilipe21&show_icons=true&theme=transparent">
+  <img style="margin-right: 2rem;" height="180em"src="https://github-readme-stats.vercel.app/api?username=matheusfilipe21&show_icons=true&theme=transparent">
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfilipe21&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfilipe21&layout=compact">
 </div>
 
 ## Contribuições
@@ -31,4 +31,4 @@
 ## Como Entrar em Contato
 <a href="https://www.linkedin.com/in/matheusfilipe21" target="_blank" title="Linkedin Matheus Pereira"><img src="https://img.shields.io/badge/-Matheus Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfilipe21" alt="Linkedin Matheus Pereira"/></a> [![Gmail Matheus Pereira](https://img.shields.io/badge/-matheusfnpereira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusfnpereira@gmail.com)](mailto:matheusfnpereira@gmail.com "Gmail Matheus Pereira")
 
-##### Para mais informações acesse meu portfolio clicando [aqui](https://matheusfilipe21.github.io "aqui").
+##### Para mais informações acesse meu portfólio clicando [aqui](https://matheusfilipe21.github.io "aqui").
